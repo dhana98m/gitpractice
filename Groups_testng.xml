@@ -9,7 +9,7 @@
 				<include name="Sanity"></include>
 			</define>
 			<run>
-				<include name="linux.*"></include>	
+				<include name="EarlyMorningTest"></include>	
 			</run>
 
 		</groups>
